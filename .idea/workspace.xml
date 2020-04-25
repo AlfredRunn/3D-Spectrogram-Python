@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34453ccb-a3ff-4a81-a2cc-9d8136fecc24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="3D Spectrogram" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/android-wavemaker" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vg6PJBLljRarcEWg1D1p5cqPoZ" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="qtgraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Alfred\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34453ccb-a3ff-4a81-a2cc-9d8136fecc24" name="Default Changelist" comment="" />
+      <created>1577662365980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577662365980</updated>
+      <workItem from="1577662369426" duration="42994000" />
+      <workItem from="1577713676800" duration="435000" />
+      <workItem from="1577715972982" duration="23000" />
+      <workItem from="1577759504439" duration="99792000" />
+      <workItem from="1578004133720" duration="1838000" />
+      <workItem from="1578006734445" duration="11099000" />
+      <workItem from="1578061279733" duration="33000" />
+      <workItem from="1578136962625" duration="3706000" />
+      <workItem from="1578183025852" duration="3928000" />
+      <workItem from="1578189122893" duration="183000" />
+      <workItem from="1578491872858" duration="186000" />
+      <workItem from="1578838572109" duration="1281000" />
+      <workItem from="1578840014298" duration="44000" />
+      <workItem from="1579207380690" duration="224000" />
+      <workItem from="1579389163728" duration="363000" />
+      <workItem from="1579390385931" duration="996000" />
+      <workItem from="1587836382538" duration="1045000" />
+      <workItem from="1587837459191" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="995" y="506" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587837113894">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state x="995" y="506" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1698@0.0.3072.1698" timestamp="1587837113894" />
+    <state x="1832" y="475" key="FileChooserDialogImpl" timestamp="1579392196586">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state x="1832" y="475" key="FileChooserDialogImpl/0.0.3072.1698@0.0.3072.1698" timestamp="1579392196586" />
+    <state width="2737" height="513" key="GridCell.Tab.0.bottom" timestamp="1587837474747">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state width="2737" height="513" key="GridCell.Tab.0.bottom/0.0.3072.1698@0.0.3072.1698" timestamp="1587837474747" />
+    <state width="2737" height="513" key="GridCell.Tab.0.center" timestamp="1587837474747">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state width="2737" height="513" key="GridCell.Tab.0.center/0.0.3072.1698@0.0.3072.1698" timestamp="1587837474747" />
+    <state width="2737" height="513" key="GridCell.Tab.0.left" timestamp="1587837474747">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state width="2737" height="513" key="GridCell.Tab.0.left/0.0.3072.1698@0.0.3072.1698" timestamp="1587837474747" />
+    <state width="2737" height="513" key="GridCell.Tab.0.right" timestamp="1587837474747">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state width="2737" height="513" key="GridCell.Tab.0.right/0.0.3072.1698@0.0.3072.1698" timestamp="1587837474747" />
+    <state x="843" y="337" key="SettingsEditor" timestamp="1587837164507">
+      <screen x="0" y="0" width="3072" height="1698" />
+    </state>
+    <state x="843" y="337" key="SettingsEditor/0.0.3072.1698@0.0.3072.1698" timestamp="1587837164507" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.colors" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/qtgraph$main.coverage" NAME="main Coverage Results" MODIFIED="1578061291255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3D_Spectrogram$main.coverage" NAME="main Coverage Results" MODIFIED="1587837465092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
